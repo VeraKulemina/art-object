@@ -1,0 +1,103 @@
+{
+  "arts": [
+    {
+      "id": 1,
+      "url": "https://collections.louvre.fr/ark:/53355/cl010065871",
+      "room": "Salle 700, Aile Denon, Niveau 1",
+      "year": "1822",
+      "creator": "Delacroix, Eugène",
+      "country": "France",
+      "title": "Dante And Virgil In Hell",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000065871/0000752969_OG.JPG",
+      "details": "This was Delacroix’s first major painting and it was immediately accepted and praised by those who favored the romantic movement. It is a passionate allegory featuring Dante in his red cap alongside Virgil, a Roman pagan poet, who gave him the first guided tour in history—a tour of hell!"
+    },
+    {
+      "id": 2,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062281",
+      "room": "Salle 711, Aile Denon, Niveau 1",
+      "year": "1509",
+      "creator": "Titien (Tiziano Vecellio, dit Tiziano ou)",
+      "country": "Italy",
+      "title": " The Pastoral Concert",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062281/0000399940_OG.JPG",
+      "details": "The Pastoral Concert by Titian is symbolic of many things but it is a fantasy above all else. In a time when most people were illiterate, symbolism in paintings is what constructed stories for observers. If you had been alive in the 16th century, you\"d know that the two nude women were magical visions."
+    },
+    {
+      "id": 3,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010059230",
+      "room": "Salle 710, Aile Denon, Niveau 1",
+      "year": "1500-1525",
+      "creator": "Pérugin (dit Il Perugino)",
+      "country": "Italy",
+      "title": "The Battle Between Love And Chastity",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059230/0000054115_OG.JPG",
+      "details": "The Battle Between Love and Chastity is an allegory depicting the internal battle our European ancestors faced. Pietro Perugino’s painting connects us with that struggle, which is why I believe it is one of the most important and famous paintings in the Louvre. Importantly, it helps us understand the minds of women in the 16th century."
+    },
+    {
+      "id": 4,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062725",
+      "room": "Salle 903, Aile Sully, Niveau 2",
+      "year": "1875",
+      "creator": "Renoir, Pierre Auguste",
+      "country": "France",
+      "title": "La Lecture",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062725/0000389600_OG.JPG",
+      "details": "Renoir was so passionate about painting that he even continued when he was old and suffering from severe arthritis. Renoir then painted with the brush tied to his wrists."
+    },
+    {
+      "id": 5,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010053450",
+      "room": "Salle 700, Aile Denon, Niveau 1",
+      "year": "1400-1500",
+      "creator": "Botticelli, Sandro",
+      "country": "Italy",
+      "title": "Virgin and Child with an Angel",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000053450/0000751116_OG.JPG",
+      "details": "At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime."
+    },
+    {
+      "id": 6,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010057182",
+      "room": "Salle 700, Aile Denon, Niveau 1",
+      "year": "1500-1600",
+      "creator": "Santi, Raffaello, dit Raphaël",
+      "country": "Italy",
+      "title": "Sainte Famille",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000057182/0000338865_OG.JPG",
+      "details": "Raffaello Santi or Sanzio, known as Raphael, a painter of the High Renaissance, is the son of the official painter of the court of the Duke of Urbino, Giovanni Santi. His style is characterized by an almost equal use of drawing and colour because, unlike many painters, he does not let one dominate the other; he is as precise in the line as in the distribution of colours as in the vanishing point."
+    },
+    {
+      "id": 7,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010059613",
+      "room": "Salle 918, Aile Sully, Niveau 2",
+      "year": "1700-1750",
+      "creator": "Pater, Jean-Baptiste",
+      "country": "France",
+      "title": "Réunion d'acteurs de la Comédie italienne dans un parc",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000059613/0000135511_OG.JPG",
+      "details": "Born in Valenciennes, Pater was the son of sculptor Antoine Pater and studied under him before becoming a student of painter Jean-Baptiste Guide."
+    },
+    {
+      "id": 8,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010053875",
+      "room": "Salle 700, Aile Denon, Niveau 1",
+      "year": "1500-1600",
+      "creator": "Robusti, Jacopo, dit Tintoretto",
+      "country": "Italy",
+      "title": "La Déploration du Christ",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000053875/0000970106_OG.JPG",
+      "details": "Tintoretto's art is characterised by daring inventiveness in both handling and composition. Most of his paintings are large-scale narratives on canvas, animated by dramatic lighting and gestures."
+    },
+    {
+      "id": 9,
+      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062674",
+      "room": "Salle 903, Aile Sully, Niveau 2",
+      "year": "1880",
+      "creator": "Monet, Claude Oscar",
+      "country": "France",
+      "title": "La débâcle près de Vétheuil",
+      "image": "https://collections.louvre.fr/media/cache/small/0000000021/0000062674/0000394515_OG.JPG",
+      "details": "Monet was known for painting the same subjects over and over, drawing inspiration from the unique qualities of color and light he observed each time he sat down to paint. The practice led to a wide, vibrant body of work."
+    }
+  ]
+}
