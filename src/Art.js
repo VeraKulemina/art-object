@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from "react";
 import ArtRender from "./ArtRender";
-import ArtForm from "./ArtForm";
 
 
 
