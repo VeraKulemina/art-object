@@ -1,6 +1,6 @@
 # Art Object
 
-![image](./images/wireframe.png)
+![image](./src/images/wireframe.png)
 
 
 * As a user I can click on NavBar menu 
