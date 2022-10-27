@@ -8,7 +8,7 @@
 * As user I can click on "about" in NavBar and see information about the museum.
   
   All requariments for the project were completed. Here is final product:
-  
+
   ![image](./src/images/view1.png)
   ![image](./src/images/view2.png)
   ![image](./src/images/view3.png)
