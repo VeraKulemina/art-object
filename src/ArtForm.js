@@ -35,7 +35,7 @@ function ArtForm({onAddArt}) {
     <div className="container">
       <form className="add-toy-form" onSubmit={handleSubmit}>
         <br />
-        <h1>Create Art Item!</h1>
+        <h1 className="h2">Create Art Item!</h1>
         <input
           type="text"
           name="title"

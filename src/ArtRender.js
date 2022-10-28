@@ -18,6 +18,7 @@ function ArtRender({arts, onDelete}){
         art={art}
         details={art.details}
         onDelete={onDelete}
+      
         />
       ))
     

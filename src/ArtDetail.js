@@ -14,11 +14,22 @@ function ArtDetail() {
     
     if (!art) return <h2>Loading...</h2>
     
-    const { room, year, creator, country, title, image, details } = art
+    const { room, year, creator, country, title, image, details, background } = art
 
+    const myStyle = {
+        backgroundImage: `url(${background})`,
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "cover",
+        backgroundAttachment: "fixed",
+        backgroundColor: "#000000",
+        height: "909px",
+        margin: "0 auto",
+    }
     
     return (
         <section>
+            <div style={myStyle}>
             <div className="project-item">
                 <img src={image} alt={title} />
                 <h4>{title}</h4>
@@ -27,6 +38,7 @@ function ArtDetail() {
                 <h4>{creator}</h4>
                 <p>{country}</p>
                 <p>{details} </p>
+            </div>
             </div>
         </section>
     );

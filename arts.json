@@ -2,7 +2,7 @@
   "arts": [
     {
       "id": 1,
-      "url": "https://collections.louvre.fr/ark:/53355/cl010065871",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 700, Aile Denon, Niveau 1",
       "year": "1822",
       "creator": "Delacroix, Eugène",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062281",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 711, Aile Denon, Niveau 1",
       "year": "1509",
       "creator": "Titien (Tiziano Vecellio, dit Tiziano ou)",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010059230",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 710, Aile Denon, Niveau 1",
       "year": "1500-1525",
       "creator": "Pérugin (dit Il Perugino)",
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062725",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 903, Aile Sully, Niveau 2",
       "year": "1875",
       "creator": "Renoir, Pierre Auguste",
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010053450",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 700, Aile Denon, Niveau 1",
       "year": "1400-1500",
       "creator": "Botticelli, Sandro",
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010057182",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 700, Aile Denon, Niveau 1",
       "year": "1500-1600",
       "creator": "Santi, Raffaello, dit Raphaël",
@@ -68,7 +68,7 @@
     },
     {
       "id": 7,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010059613",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 918, Aile Sully, Niveau 2",
       "year": "1700-1750",
       "creator": "Pater, Jean-Baptiste",
@@ -79,7 +79,7 @@
     },
     {
       "id": 8,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010053875",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 700, Aile Denon, Niveau 1",
       "year": "1500-1600",
       "creator": "Robusti, Jacopo, dit Tintoretto",
@@ -90,7 +90,7 @@
     },
     {
       "id": 9,
-      "url": "https://collections.louvre.fr/en/ark:/53355/cl010062674",
+      "background": "https://cdn.dribbble.com/users/707385/screenshots/4217461/wave_1.gif",
       "room": "Salle 903, Aile Sully, Niveau 2",
       "year": "1880",
       "creator": "Monet, Claude Oscar",
